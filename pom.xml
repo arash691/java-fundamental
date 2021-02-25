@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>session__03</artifactId>
+  <artifactId>JavaFundamental</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>session__03</name>
+  <name>JavaFundamental</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
