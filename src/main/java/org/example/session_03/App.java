@@ -1,4 +1,4 @@
-package org.example;
+package org.example.session_03;
 
 /**
  * Hello world!
