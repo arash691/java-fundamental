@@ -1,4 +1,4 @@
-package negin.session1;
+package javabasic.session1;
 
 /**
  * Created by arash on 20.05.21.
