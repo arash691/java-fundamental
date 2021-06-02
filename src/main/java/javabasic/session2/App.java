@@ -1,4 +1,4 @@
-package javabasic.session1.session2;
+package javabasic.session2;
 
 /**
  * Created by arash on 27.05.21.
